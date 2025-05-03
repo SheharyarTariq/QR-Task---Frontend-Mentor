@@ -17,7 +17,7 @@ function App() {
           <div className="p-4 pb-6">
             <p className="text-[#1F314F] text-center text-xl font-bold">Improve your front-end skills by
               building projects</p>
-            <p className="text-slate-500 text-center text-sm pt-4 font-normal">Scan the QR code to visit
+            <p className="text-[#68778D] text-center text-[15px] pt-4 font-normal">Scan the QR code to visit
               Frontend Mentor and take your coding skills to the next level</p>
           </div>
         </div>
