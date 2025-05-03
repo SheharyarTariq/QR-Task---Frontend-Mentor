@@ -5,11 +5,9 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],  theme: {
     extend: {
-      colors:{
-      },
-      backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-      },
+      fontFamily: {
+        sans: ['Outfit', 'sans-serif'],
+      }
     },
   },
   plugins: [],
